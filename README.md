@@ -20,6 +20,14 @@ https://websocket-play.coffbox.win/
 
 A multiplayer asteroids-like game
 
+## WC3 Icons
+
+A simple website making the icons of Warcraft III accessible.
+
+https://wc3-icons.coffbox.win/
+
+https://github.com/CoffMakesThings/wc3-icons
+
 ## Slater Starcraft AI
 
 An AI that plays StarCraft in an automated tournament league. It competes with other AIs made by hobbyists and researchers.
