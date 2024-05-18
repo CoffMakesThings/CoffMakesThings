@@ -8,11 +8,11 @@ https://github.com/CoffMakesThings/sc2-upgrade-dashboard
 
 A website that provides analytics about the upgrades in the game StarCraft II
 
-## Coff Flashcards
+## Finnish Flashcards
 
 https://cards.coffbox.win/
 
-A website for practising vocabulary in different languages.
+A website for practising vocabulary in Finnish.
 
 ## Websocket play
 
