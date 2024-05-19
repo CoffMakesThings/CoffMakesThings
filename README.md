@@ -1,5 +1,11 @@
 Hi! I like to write code related to web and games. Some of the projects I worked on:
 
+## Finnish Flashcards
+
+https://finnishflashcards.com/
+
+A website for practising vocabulary in Finnish.
+
 ## SC2 Upgrades
 
 https://sc2upgrades.coffbox.win/
@@ -7,12 +13,6 @@ https://sc2upgrades.coffbox.win/
 https://github.com/CoffMakesThings/sc2-upgrade-dashboard
 
 A website that provides analytics about the upgrades in the game StarCraft II
-
-## Finnish Flashcards
-
-https://finnishflashcards.com/
-
-A website for practising vocabulary in Finnish.
 
 ## Websocket play
 
