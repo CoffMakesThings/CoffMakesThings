@@ -10,7 +10,7 @@ A website that provides analytics about the upgrades in the game StarCraft II
 
 ## Finnish Flashcards
 
-https://cards.coffbox.win/
+https://finnishflashcards.com/
 
 A website for practising vocabulary in Finnish.
 
