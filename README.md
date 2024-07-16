@@ -42,10 +42,6 @@ Some nice blog posts were written about it:
 
 Automatically extracts and posts chat logs from SC2 replays. Used daily in the popular TopTierPractice Discord server.
 
-## Various games
-
-https://coffmakesthings.itch.io/
-
 ---
 
 You can hit me up at coffmakesthings@gmail.com
