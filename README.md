@@ -1,5 +1,11 @@
 Hi! I like to write code related to web and games. Some of the projects I worked on:
 
+## Coff Creeps
+
+[https://coff-creeps.web.app/](https://coff-creeps.web.app/)
+
+A website that allows gamers to plan their strategy in Warcraft 3.
+
 ## Finnish Flashcards
 
 https://finnishflashcards.com/
@@ -12,13 +18,13 @@ https://sc2upgrades.coffbox.win/
 
 https://github.com/CoffMakesThings/sc2-upgrade-dashboard
 
-A website that provides analytics about the upgrades in the game StarCraft II
+A website that provides analytics about the upgrades in the game StarCraft II.
 
 ## Websocket play
 
 https://websocket-play.coffbox.win/ *currently down*
 
-A multiplayer asteroids-like game
+A multiplayer asteroids-like game.
 
 ## WC3 Icons
 
