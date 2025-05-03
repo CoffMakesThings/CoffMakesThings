@@ -1,10 +1,16 @@
 Hi! I like to write code related to web and games. Some of the projects I worked on:
 
+## Tempest Rising Damage
+
+[https://tempest-rising-damage.web.app/](https://tempest-rising-damage.web.app/)
+
+Visualizes damage bonuses in Tempest Rising.
+
 ## Coff Creeps
 
 [https://coff-creeps.web.app/](https://coff-creeps.web.app/)
 
-A website that allows gamers to plan their strategy in Warcraft 3.
+Allows gamers to plan their strategy in Warcraft 3.
 
 ## Finnish Flashcards
 
@@ -18,7 +24,7 @@ https://sc2upgrades.coffbox.win/
 
 https://github.com/CoffMakesThings/sc2-upgrade-dashboard
 
-A website that provides analytics about the upgrades in the game StarCraft II.
+Provides analytics about the upgrades in StarCraft II.
 
 ## Websocket play
 
