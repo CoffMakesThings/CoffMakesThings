@@ -28,7 +28,7 @@ Provides analytics about the upgrades in StarCraft II.
 
 ## Websocket play
 
-https://websocket-play.coffbox.win/ *currently down*
+https://websocket-play.coffbox.win/
 
 A multiplayer asteroids-like game.
 
