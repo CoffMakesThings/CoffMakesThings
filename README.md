@@ -44,12 +44,6 @@ https://github.com/CoffMakesThings/wc3-icons
 
 An AI that plays StarCraft in an automated tournament league. It competes with other AIs made by hobbyists and researchers.
 
-Some nice blog posts were written about it:
-
-- https://satirist.org/ai/starcraft/blog/archives/908-new-bot-Slater.html
-- https://satirist.org/ai/starcraft/blog/archives/915-Slaters-progress.html
-- https://satirist.org/ai/starcraft/blog/archives/920-KangarooBot,-KasoBot,-NuiBot,-DTD-Bot.html
-
 ## bmbot - Starcraft II Discord Bot
 
-Discord bot that automatically extracts and posts chat logs from SC2 replays. Used daily.
+Discord bot that automatically extracts and posts chat logs from SC2 replays.
