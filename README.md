@@ -16,7 +16,7 @@ A website for practising vocabulary in Finnish. Also has smaller [french](https:
 
 [https://tempest-rising-damage.web.app/](https://tempest-rising-damage.web.app/)
 
-Visualizes damage bonuses in Tempest Rising.
+Visualizes damage bonuses in the game Tempest Rising.
 
 ## SC2 Upgrades
 
@@ -40,7 +40,7 @@ https://wc3icons.coffbox.win/
 
 https://github.com/CoffMakesThings/wc3-icons
 
-## Slater Starcraft AI
+## Slater - Starcraft AI
 
 An AI that plays StarCraft in an automated tournament league. It competes with other AIs made by hobbyists and researchers.
 
