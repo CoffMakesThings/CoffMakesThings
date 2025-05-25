@@ -1,22 +1,22 @@
 Hi! I like to write code related to web and games. Some of the projects I worked on:
 
-## Tempest Rising Damage
-
-[https://tempest-rising-damage.web.app/](https://tempest-rising-damage.web.app/)
-
-Visualizes damage bonuses in Tempest Rising.
-
 ## Coff Creeps
 
 [https://coff-creeps.web.app/](https://coff-creeps.web.app/)
 
-Allows gamers to plan their strategy in Warcraft 3.
+Allows gamers to plan their strategy in Warcraft 3. Quite popular.
 
 ## Finnish Flashcards
 
 https://finnishflashcards.com/
 
-A website for practising vocabulary in Finnish.
+A website for practising vocabulary in Finnish. Also has smaller [french](https://frenchflashcards.net/) and [slovak](https://slovakflashcards.com/status) versions.
+
+## Tempest Rising Damage
+
+[https://tempest-rising-damage.web.app/](https://tempest-rising-damage.web.app/)
+
+Visualizes damage bonuses in Tempest Rising.
 
 ## SC2 Upgrades
 
@@ -52,4 +52,4 @@ Some nice blog posts were written about it:
 
 ## bmbot - Starcraft II Discord Bot
 
-Automatically extracts and posts chat logs from SC2 replays. Used daily in the popular TopTierPractice Discord server.
+Discord bot that automatically extracts and posts chat logs from SC2 replays. Used daily.
