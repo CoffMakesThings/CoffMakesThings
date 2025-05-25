@@ -12,6 +12,14 @@ https://finnishflashcards.com/
 
 A website for practising vocabulary in Finnish. Also has smaller [french](https://frenchflashcards.net/) and [slovak](https://slovakflashcards.com/status) versions.
 
+## W3Champions
+
+https://w3champions.com/
+
+https://github.com/w3champions/
+
+Contributing to the open source Warcraft 3 multiplayer matchmaking system W3Champions.
+
 ## Tempest Rising Damage
 
 [https://tempest-rising-damage.web.app/](https://tempest-rising-damage.web.app/)
