@@ -4,7 +4,7 @@ Hi! I like to write code related to web and games. Some of the projects I worked
 
 [https://coff-creeps.web.app/](https://coff-creeps.web.app/)
 
-Allows gamers to plan their strategy in Warcraft 3. Quite popular.
+Allows gamers to plan their strategy in Warcraft 3.
 
 ## Finnish Flashcards
 
